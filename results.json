@@ -783,7 +783,12 @@
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
-        "Cloud Castle",
+        "CQG",
+        "EPAM Systems"
+      ],
+      "results": [
+        "EPAM Systems",
+        "CQG",
         "EPAM Systems"
       ]
     },
