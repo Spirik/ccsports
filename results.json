@@ -613,7 +613,13 @@
       "teams": [
         "EPAM Systems",
         "ИРТех",
-        "Право.ру"
+        "Право.ру",
+        "NetCracker"
+      ],
+      "results": [
+        "EPAM Systems",
+        "EPAM Systems",
+        "NetCracker"
       ]
     },
     {
