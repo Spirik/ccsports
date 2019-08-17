@@ -2,1317 +2,1156 @@
   "teams": [
     {
       "title": "Cloud Castle",
-      "count": 20
+      "count": ""
     },
     {
       "title": "EPAM Systems",
-      "count": 80
-    },
-    {
-      "title": "CQG",
-      "count": 11
-    },
-    {
-      "title": "Haulmont",
-      "count": 78
-    },
-    {
-      "title": "i-Sys",
-      "count": 12
-    },
-    {
-      "title": "Magenta Technology",
-      "count": 9
-    },
-    {
-      "title": "Maxifier",
-      "count": 6
-    },
-    {
-      "title": "Mercury Development",
-      "count": 11
-    },
-    {
-      "title": "NetCracker",
-      "count": 87
-    },
-    {
-      "title": "NEXIGN",
-      "count": 36
-    },
-    {
-      "title": "REG.RU",
-      "count": 25
-    },
-    {
-      "title": "SimbirSoft",
-      "count": 1
-    },
-    {
-      "title": "Wowworks",
-      "count": 25
+      "count": ""
     },
     {
       "title": "Акелон",
-      "count": 6
+      "count": ""
     },
     {
-      "title": "Воздухоплаватели",
-      "count": 10
+      "title": "Magenta Technology",
+      "count": ""
     },
     {
-      "title": "ГК СМС-Автоматизация",
-      "count": 63
+      "title": "Maxifier",
+      "count": ""
     },
     {
-      "title": "Золотой код",
-      "count": 4
+      "title": "СКБ Контур",
+      "count": ""
     },
     {
       "title": "Информ-С",
-      "count": 5
+      "count": ""
     },
     {
-      "title": "ИРТех",
-      "count": 16
+      "title": "Haulmont",
+      "count": ""
     },
     {
-      "title": "ООО ИТ-ТрансПроект",
-      "count": 1
+      "title": "ВТБ",
+      "count": ""
     },
     {
-      "title": "ГК ПАРУС",
-      "count": 12
+      "title": "CQG",
+      "count": ""
+    },
+    {
+      "title": "ГК СМС-Автоматизация",
+      "count": ""
+    },
+    {
+      "title": "NEXIGN",
+      "count": ""
+    },
+    {
+      "title": "NetCracker",
+      "count": ""
+    },
+    {
+      "title": "Mad Devs",
+      "count": ""
+    },
+    {
+      "title": "Wowworks",
+      "count": ""
+    },
+    {
+      "title": "Mercury Development",
+      "count": ""
+    },
+    {
+      "title": "REG.RU",
+      "count": ""
+    },
+    {
+      "title": "Золотой код",
+      "count": ""
     },
     {
       "title": "Право.ру",
-      "count": 36
+      "count": ""
+    },
+    {
+      "title": "Колл-Сервис",
+      "count": ""
+    },
+    {
+      "title": "Appbooster",
+      "count": ""
+    },
+    {
+      "title": "i-Sys",
+      "count": ""
+    },
+    {
+      "title": "Воздухоплаватели",
+      "count": ""
+    },
+    {
+      "title": "SimbirSoft",
+      "count": ""
+    },
+    {
+      "title": "Текфорс",
+      "count": ""
+    },
+    {
+      "title": "Инфопро",
+      "count": ""
     },
     {
       "title": "Программные Технологии",
-      "count": 21
-    },
-    {
-      "title": "Разумные решения",
-      "count": 7
-    },
-    {
-      "title": "Суперпозиция",
-      "count": 8
-    },
-    {
-      "title": "Эквид",
-      "count": 9
+      "count": ""
     }
   ],
   "first_day_competitions": [
     {
       "title": "Регистрация участников",
-      "start_time": "2018-09-01T09:00:00+04:00",
-      "end_time": "2018-09-01T10:00:00+04:00",
+      "start_time": "2019-09-07T09:00:00+04:00",
+      "end_time": "2019-09-07T10:00:00+04:00",
       "location_x": 0.31,
       "location_y": 0.75,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
-        "CQG",
-        "Haulmont",
-        "i-Sys",
+        "Акелон",
         "Magenta Technology",
         "Maxifier",
-        "Mercury Development",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "SimbirSoft",
-        "Wowworks",
-        "Акелон",
-        "Воздухоплаватели",
-        "ГК СМС-Автоматизация",
-        "Золотой код",
+        "СКБ Контур",
         "Информ-С",
-        "ИРТех",
-        "ООО ИТ-ТрансПроект",
-        "ГК ПАРУС",
+        "Haulmont",
+        "ВТБ",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Mad Devs",
+        "Wowworks",
+        "Mercury Development",
+        "REG.RU",
+        "Золотой код",
         "Право.ру",
-        "Программные Технологии",
-        "Разумные решения",
-        "Суперпозиция",
-        "Эквид"
+        "Колл-Сервис",
+        "Appbooster",
+        "i-Sys",
+        "Воздухоплаватели",
+        "SimbirSoft",
+        "Текфорс",
+        "Инфопро",
+        "Программные Технологии"
       ]
     },
     {
       "title": "Торжественное открытие",
-      "start_time": "2018-09-01T10:30:00+04:00",
-      "end_time": "2018-09-01T11:00:00+04:00",
+      "start_time": "2019-09-07T10:30:00+04:00",
+      "end_time": "2019-09-07T11:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
-        "CQG",
-        "Haulmont",
-        "i-Sys",
+        "Акелон",
         "Magenta Technology",
         "Maxifier",
-        "Mercury Development",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "SimbirSoft",
-        "Wowworks",
-        "Акелон",
-        "Воздухоплаватели",
-        "ГК СМС-Автоматизация",
-        "Золотой код",
+        "СКБ Контур",
         "Информ-С",
-        "ИРТех",
-        "ООО ИТ-ТрансПроект",
-        "ГК ПАРУС",
+        "Haulmont",
+        "ВТБ",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Mad Devs",
+        "Wowworks",
+        "Mercury Development",
+        "REG.RU",
+        "Золотой код",
         "Право.ру",
-        "Программные Технологии",
-        "Разумные решения",
-        "Суперпозиция",
-        "Эквид"
+        "Колл-Сервис",
+        "Appbooster",
+        "i-Sys",
+        "Воздухоплаватели",
+        "SimbirSoft",
+        "Текфорс",
+        "Инфопро",
+        "Программные Технологии"
       ]
     },
     {
       "title": "Мини-футбол",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T17:30:00+04:00",
+      "start_time": "2019-09-07T11:00:00+04:00",
+      "end_time": "2019-09-07T17:30:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
-        "Cloud Castle",
         "EPAM Systems",
-        "CQG",
         "Haulmont",
-        "Mercury Development",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "Wowworks",
-        "Воздухоплаватели",
+        "ВТБ",
+        "CQG",
         "ГК СМС-Автоматизация",
-        "ИРТех",
-        "ГК ПАРУС",
-        "Программные Технологии"
-      ],
-      "results": [
-        "ГК ПАРУС",
-        "EPAM Systems",
+        "NEXIGN",
+        "NetCracker",
+        "Mercury Development",
+        "REG.RU",
+        "Колл-Сервис",
+        "Appbooster",
+        "Воздухоплаватели",
+        "Инфопро",
         "Программные Технологии"
       ]
     },
     {
       "title": "Стритбол",
-      "start_time": "2018-09-01T10:30:00+04:00",
-      "end_time": "2018-09-01T14:30:00+04:00",
+      "start_time": "2019-09-07T10:30:00+04:00",
+      "end_time": "2019-09-07T14:30:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
-        "Cloud Castle",
         "EPAM Systems",
-        "Haulmont",
-        "Maxifier",
-        "NetCracker",
-        "ГК СМС-Автоматизация",
-        "Золотой код",
         "Информ-С",
-        "Право.ру",
-        "Программные Технологии",
-        "Суперпозиция",
-        "Эквид"
-      ],
-      "results": [
+        "Haulmont",
+        "ВТБ",
+        "ГК СМС-Автоматизация",
+        "NetCracker",
         "Золотой код",
-        "Право.ру",
-        "Maxifier"
+        "Appbooster"
       ]
     },
     {
       "title": "Волейбол (ж)",
-      "start_time": "2018-09-01T10:30:00+04:00",
-      "end_time": "2018-09-01T17:30:00+04:00",
+      "start_time": "2019-09-07T10:30:00+04:00",
+      "end_time": "2019-09-07T17:30:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
         "EPAM Systems",
+        "Акелон",
+        "Maxifier",
         "Haulmont",
-        "NetCracker"
-      ],
-      "results": [
-        "Haulmont",
+        "ВТБ",
+        "NEXIGN",
         "NetCracker",
-        "EPAM Systems"
+        "REG.RU",
+        "Appbooster",
+        "Программные Технологии"
       ]
     },
     {
       "title": "Лазертаг (1-ый день)",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T16:00:00+04:00",
+      "start_time": "2019-09-07T11:00:00+04:00",
+      "end_time": "2019-09-07T16:00:00+04:00",
       "location_x": 0.4,
       "location_y": 0.02,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
+        "Информ-С",
         "Haulmont",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "Wowworks",
-        "Акелон",
+        "ВТБ",
         "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "REG.RU",
         "Право.ру",
-        "Программные Технологии",
-        "Эквид"
+        "Appbooster"
       ]
     },
     {
       "title": "Стрельба",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T18:00:00+04:00",
+      "start_time": "2019-09-07T11:00:00+04:00",
+      "end_time": "2019-09-07T18:00:00+04:00",
       "location_x": 0.52,
       "location_y": 0.12,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
+        "СКБ Контур",
         "Haulmont",
-        "i-Sys",
-        "NetCracker",
-        "NEXIGN",
-        "Wowworks",
-        "Акелон",
+        "ВТБ",
         "ГК СМС-Автоматизация",
-        "Право.ру",
-        "Программные Технологии",
-        "Разумные решения"
-      ],
-      "results": [
-        "EPAM Systems",
         "NEXIGN",
-        "Haulmont"
+        "NetCracker",
+        "Wowworks",
+        "REG.RU",
+        "Право.ру",
+        "Колл-Сервис",
+        "Appbooster",
+        "i-Sys",
+        "SimbirSoft",
+        "Программные Технологии"
       ]
     },
     {
-      "title": "Cтрельба",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T18:00:00+04:00",
-      "location_x": 0.52,
-      "location_y": 0.12,
+      "title": "Армрестлинг (ж)",
+      "start_time": "2019-09-08T11:00:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
+      "location_x": 0.75,
+      "location_y": 0.52,
       "teams": [
-        "Cloud Castle",
-        "EPAM Systems",
-        "Haulmont",
-        "i-Sys",
-        "NetCracker",
-        "NEXIGN",
-        "Wowworks",
-        "Акелон",
-        "ГК СМС-Автоматизация",
-        "Право.ру",
-        "Программные Технологии",
-        "Разумные решения"
-      ],
-      "results": [
-        "",
-        "",
-        "ГК СМС-Автоматизация"
+
+      ]
+    },
+    {
+      "title": "Армрестлинг (м)",
+      "start_time": "2019-09-08T11:00:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
+      "location_x": 0.75,
+      "location_y": 0.52,
+      "teams": [
+
       ]
     },
     {
       "title": "Прыжки в длину (ж)",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T18:00:00+04:00",
+      "start_time": "2019-09-07T11:00:00+04:00",
+      "end_time": "2019-09-07T18:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
-        "Haulmont"
-      ],
-      "results": [
         "Haulmont",
-        "EPAM Systems",
-        "EPAM Systems"
+        "ВТБ",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker"
       ]
     },
     {
       "title": "Прыжки в длину (м)",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T18:00:00+04:00",
+      "start_time": "2019-09-07T11:00:00+04:00",
+      "end_time": "2019-09-07T18:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
+        "Cloud Castle",
         "EPAM Systems",
-        "CQG",
         "Haulmont",
-        "Magenta Technology",
-        "NetCracker",
+        "ВТБ",
+        "ГК СМС-Автоматизация",
         "NEXIGN",
-        "ГК СМС-Автоматизация"
-      ],
-      "results": [
-        "Haulmont",
-        "EPAM Systems",
-        "Haulmont"
+        "NetCracker"
       ]
     },
     {
       "title": "Бег 800 метров (ж, 1 забег)",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T12:00:00+04:00",
+      "start_time": "2019-09-07T11:00:00+04:00",
+      "end_time": "2019-09-07T12:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.20,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
+        "Акелон",
+        "Haulmont",
+        "NEXIGN",
         "NetCracker",
         "REG.RU",
-        "ГК СМС-Автоматизация",
-        "Право.ру"
+        "SimbirSoft"
       ]
     },
     {
       "title": "Бег 800 метров (м, 1 забег)",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T12:00:00+04:00",
+      "start_time": "2019-09-07T11:00:00+04:00",
+      "end_time": "2019-09-07T12:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.20,
       "teams": [
+        "Cloud Castle",
         "EPAM Systems",
-        "NetCracker",
+        "Акелон",
+        "Haulmont",
         "NEXIGN",
-        "ГК СМС-Автоматизация"
+        "NetCracker",
+        "REG.RU",
+        "SimbirSoft"
       ]
     },
     {
       "title": "Эстафета 4x365 метров (ж)",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T13:00:00+04:00",
+      "start_time": "2019-09-07T11:00:00+04:00",
+      "end_time": "2019-09-07T13:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.20,
       "teams": [
-        "Cloud Castle",
-        "EPAM Systems"
-      ],
-      "results": [
         "EPAM Systems",
-        "Cloud Castle"
+        "Haulmont",
+        "ВТБ",
+        "NEXIGN",
+        "NetCracker"
       ]
     },
     {
       "title": "Эстафета 4x365 метров (м)",
-      "start_time": "2018-09-01T11:00:00+04:00",
-      "end_time": "2018-09-01T13:00:00+04:00",
+      "start_time": "2019-09-07T11:00:00+04:00",
+      "end_time": "2019-09-07T13:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.20,
       "teams": [
         "EPAM Systems",
         "Haulmont",
-        "NetCracker"
-      ],
-      "results": [
-        "Haulmont",
-        "EPAM Systems",
-        "NetCracker"
-      ]
-    },
-    {
-      "title": "Петанк",
-      "start_time": "2018-09-01T13:00:00+04:00",
-      "end_time": "2018-09-01T18:00:00+04:00",
-      "location_x": -0.20,
-      "location_y": 0.05,
-      "teams": [
-        "Cloud Castle",
-        "EPAM Systems",
-        "CQG",
-        "Haulmont",
+        "ВТБ",
         "NEXIGN",
-        "ГК СМС-Автоматизация",
-        "Право.ру",
-        "Программные Технологии",
-        "Разумные решения"
-      ],
-      "results": [
-        "Программные Технологии",
-        "Haulmont",
-        "ГК СМС-Автоматизация"
+        "NetCracker"
       ]
     },
     {
       "title": "Бег 800 метров (ж)",
-      "start_time": "2018-09-01T16:00:00+04:00",
-      "end_time": "2018-09-01T16:30:00+04:00",
+      "start_time": "2019-09-07T16:00:00+04:00",
+      "end_time": "2019-09-07T16:30:00+04:00",
       "location_x": 0.20,
       "location_y": 0.20,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
+        "Акелон",
+        "Haulmont",
+        "NEXIGN",
         "NetCracker",
         "REG.RU",
-        "ГК СМС-Автоматизация",
-        "Право.ру"
-      ],
-      "results": [
-        "Cloud Castle",
-        "EPAM Systems",
-        "EPAM Systems"
+        "SimbirSoft"
       ]
     },
     {
       "title": "Бег 800 метров (м)",
-      "start_time": "2018-09-01T16:00:00+04:00",
-      "end_time": "2018-09-01T16:30:00+04:00",
+      "start_time": "2019-09-07T16:00:00+04:00",
+      "end_time": "2019-09-07T16:30:00+04:00",
       "location_x": 0.20,
       "location_y": 0.20,
       "teams": [
+        "Cloud Castle",
         "EPAM Systems",
-        "NetCracker",
+        "Акелон",
+        "Haulmont",
         "NEXIGN",
-        "ГК СМС-Автоматизация"
-      ],
-      "results": [
-        "EPAM Systems",
-        "EPAM Systems",
-        "NEXIGN"
+        "NetCracker",
+        "REG.RU",
+        "SimbirSoft"
       ]
     }
   ],
   "second_day_competitions": [
     {
       "title": "Волейбол (м)",
-      "start_time": "2018-09-02T10:30:00+04:00",
-      "end_time": "2018-09-02T17:30:00+04:00",
+      "start_time": "2019-09-08T10:30:00+04:00",
+      "end_time": "2019-09-08T17:30:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
+      "teams": [
+        "EPAM Systems",
+        "Акелон",
+        "Maxifier",
+        "Haulmont",
+        "ВТБ",
+        "NEXIGN",
+        "NetCracker",
+        "REG.RU",
+        "Appbooster",
+        "Программные Технологии"
+      ]
+    },
+    {
+      "title": "Кроссфит (ж)",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T13:00:00+04:00",
+      "location_x": 0.70,
+      "location_y": 0.44,
+      "teams": [
+        "EPAM Systems",
+        "Акелон",
+        "Maxifier",
+        "Haulmont",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Право.ру",
+        "Appbooster"
+      ]
+    },
+    {
+      "title": "Кроссфит (м)",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T13:00:00+04:00",
+      "location_x": 0.70,
+      "location_y": 0.44,
+      "teams": [
+        "EPAM Systems",
+        "Акелон",
+        "Maxifier",
+        "Haulmont",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Право.ру",
+        "Appbooster"
+      ]
+    },
+    {
+      "title": "Бег 5000 метров (ж)",
+      "start_time": "2019-09-08T11:30:00+04:00",
+      "end_time": "2019-09-08T15:00:00+04:00",
+      "location_x": 0.19,
+      "location_y": 0.19,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
         "Haulmont",
-        "NetCracker",
+        "ВТБ",
+        "ГК СМС-Автоматизация",
         "NEXIGN",
-        "REG.RU",
-        "Wowworks",
-        "ИРТех",
-        "Право.ру",
-        "Программные Технологии",
-        "Эквид"
-      ],
-      "results": [
         "NetCracker",
-        "EPAM Systems",
-        "Haulmont"
+        "Wowworks",
+        "REG.RU",
+        "Колл-Сервис",
+        "Appbooster",
+        "i-Sys"
       ]
     },
     {
-      "title": "Гиревой спорт",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
-      "location_x": 0.75,
-      "location_y": 0.52,
+      "title": "Бег 5000 метров (м)",
+      "start_time": "2019-09-08T11:30:00+04:00",
+      "end_time": "2019-09-08T15:00:00+04:00",
+      "location_x": 0.19,
+      "location_y": 0.19,
       "teams": [
+        "Cloud Castle",
+        "EPAM Systems",
         "Haulmont",
-        "NetCracker",
+        "ВТБ",
+        "ГК СМС-Автоматизация",
         "NEXIGN",
+        "NetCracker",
+        "Wowworks",
+        "REG.RU",
+        "Колл-Сервис",
+        "Appbooster",
+        "i-Sys"
+      ]
+    },
+    {
+      "title": "Лазертаг",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T17:30:00+04:00",
+      "location_x": 0.4,
+      "location_y": 0.02,
+      "teams": [
+        "Cloud Castle",
+        "EPAM Systems",
+        "Информ-С",
+        "Haulmont",
+        "ВТБ",
         "ГК СМС-Автоматизация",
-        "ИРТех"
-      ],
-      "results": [
-        "ИРТех",
-        "ГК СМС-Автоматизация",
-        "NetCracker"
+        "NEXIGN",
+        "NetCracker",
+        "REG.RU",
+        "Право.ру",
+        "Appbooster"
       ]
     },
     {
       "title": "Подтягивание",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
       "location_x": 0.75,
       "location_y": 0.52,
       "teams": [
         "EPAM Systems",
+        "Magenta Technology",
+        "Информ-С",
         "Haulmont",
-        "NetCracker",
+        "ГК СМС-Автоматизация",
         "NEXIGN",
-        "ГК СМС-Автоматизация",
-        "Информ-С"
-      ],
-      "results": [
-        "Haulmont",
-        "ГК СМС-Автоматизация",
-        "Haulmont"
+        "NetCracker",
+        "Wowworks",
+        "REG.RU",
+        "Appbooster",
+        "i-Sys",
+        "SimbirSoft"
       ]
     },
     {
-      "title": "Жим лёжа",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
+      "title": "Гиревой спорт",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
       "location_x": 0.75,
       "location_y": 0.52,
       "teams": [
         "EPAM Systems",
         "Haulmont",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "ГК СМС-Автоматизация",
-        "ИРТех",
-        "Право.ру"
-      ],
-      "results": [
+        "ВТБ",
         "ГК СМС-Автоматизация",
         "NetCracker",
         "REG.RU"
       ]
     },
     {
+      "title": "Жим лёжа",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
+      "location_x": 0.75,
+      "location_y": 0.52,
+      "teams": [
+        "Haulmont",
+        "ВТБ",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Appbooster"
+      ]
+    },
+    {
       "title": "Дартс",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
       "location_x": 0.02,
       "location_y": 0.44,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
-        "CQG",
         "Haulmont",
-        "i-Sys",
-        "Magenta Technology",
-        "NetCracker",
-        "NEXIGN",
-        "Wowworks",
-        "Акелон",
+        "ВТБ",
+        "CQG",
         "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
         "Право.ру",
-        "Программные Технологии",
-        "Разумные решения"
-      ],
-      "results": [
-        "Программные Технологии",
-        "Magenta Technology",
-        "Haulmont"
+        "Appbooster",
+        "i-Sys",
+        "Воздухоплаватели",
+        "Текфорс",
+        "Программные Технологии"
       ]
     },
     {
       "title": "Городки",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
       "location_x": 0.52,
       "location_y": 0.12,
       "teams": [
-        "EPAM Systems",
-        "CQG",
-        "Haulmont",
-        "NetCracker",
-        "NEXIGN",
-        "Wowworks",
-        "Акелон",
-        "ГК СМС-Автоматизация",
-        "Право.ру",
-        "Программные Технологии",
-        "Разумные решения"
-      ],
-      "results": [
-        "ГК СМС-Автоматизация",
-        "Haulmont",
-        "Разумные решения"
-      ]
-    },
-    {
-      "title": "Кроссфит (ж)",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T13:00:00+04:00",
-      "location_x": 0.70,
-      "location_y": 0.44,
-      "teams": [
-        "EPAM Systems"
-      ],
-      "results": [
-        "EPAM Systems",
-        "EPAM Systems",
-        "EPAM Systems"
-      ]
-    },
-    {
-      "title": "Кроссфит (м)",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T13:00:00+04:00",
-      "location_x": 0.70,
-      "location_y": 0.44,
-      "teams": [
-        "EPAM Systems",
-        "ИРТех",
-        "Право.ру",
-        "NetCracker"
-      ],
-      "results": [
-        "EPAM Systems",
-        "EPAM Systems",
-        "NetCracker"
-      ]
-    },
-    {
-      "title": "Бадминтон (ж)",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
-      "location_x": 0.35,
-      "location_y": 0.20,
-      "teams": [
-        "EPAM Systems",
-        "CQG",
-        "Haulmont",
-        "NetCracker",
-        "Право.ру"
-      ],
-      "results": [
-        "CQG",
-        "EPAM Systems",
-        "CQG"
-      ]
-    },
-    {
-      "title": "Бадминтон (м)",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
-      "location_x": 0.35,
-      "location_y": 0.20,
-      "teams": [
         "Cloud Castle",
         "EPAM Systems",
-        "CQG",
+        "СКБ Контур",
         "Haulmont",
-        "NetCracker",
-        "NEXIGN",
+        "ВТБ",
         "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Wowworks",
         "Программные Технологии"
-      ],
-      "results": [
-        "ГК СМС-Автоматизация",
+      ]
+    },
+    {
+      "title": "Петанк",
+      "start_time": "2019-09-07T13:00:00+04:00",
+      "end_time": "2019-09-07T18:00:00+04:00",
+      "location_x": -0.20,
+      "location_y": 0.05,
+      "teams": [
+        "Cloud Castle",
+        "EPAM Systems",
+        "СКБ Контур",
+        "Haulmont",
         "CQG",
-        "Haulmont"
-      ]
-    },
-    {
-      "title": "Лазертаг",
-      "start_time": "2018-09-02T10:00:00+04:00",
-      "end_time": "2018-09-02T17:30:00+04:00",
-      "location_x": 0.4,
-      "location_y": 0.02,
-      "teams": [
-        "Cloud Castle",
-        "EPAM Systems",
-        "Haulmont",
-        "NetCracker",
+        "ГК СМС-Автоматизация",
         "NEXIGN",
-        "REG.RU",
-        "Wowworks",
-        "Акелон",
-        "ГК СМС-Автоматизация",
-        "Право.ру",
-        "Программные Технологии",
-        "Эквид"
-      ],
-      "results": [
-        "ГК СМС-Автоматизация",
-        "Cloud Castle",
-        "NetCracker"
-      ]
-    },
-    {
-      "title": "Армрестлинг (ж)",
-      "start_time": "2018-09-02T11:00:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
-      "location_x": 0.75,
-      "location_y": 0.52,
-      "teams": [
-        "Cloud Castle",
-        "EPAM Systems",
         "NetCracker",
-        "NEXIGN",
-        "ГК СМС-Автоматизация"
-      ],
-      "results": [
-        "NetCracker",
-        "ГК СМС-Автоматизация",
-        "Cloud Castle"
-      ]
-    },
-    {
-      "title": "Армрестлинг (м)",
-      "start_time": "2018-09-02T11:00:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
-      "location_x": 0.75,
-      "location_y": 0.52,
-      "teams": [
-        "Mercury Development",
-        "NetCracker",
-        "REG.RU",
-        "ГК СМС-Автоматизация",
-        "Право.ру"
-      ],
-      "results": [
-        "ГК СМС-Автоматизация",
-        "Право.ру",
-        "ГК СМС-Автоматизация"
-      ]
-    },
-    {
-      "title": "Бег 5000 метров (ж)",
-      "start_time": "2018-09-02T11:30:00+04:00",
-      "end_time": "2018-09-02T15:00:00+04:00",
-      "location_x": 0.19,
-      "location_y": 0.19,
-      "teams": [
-        "Cloud Castle",
-        "EPAM Systems",
-        "i-Sys",
-        "Magenta Technology",
-        "NEXIGN",
-        "ГК СМС-Автоматизация",
-        "Право.ру",
-        "Программные Технологии",
-        "NetCracker"
-      ],
-      "results": [
-        "Cloud Castle",
-        "NetCracker",
-        "EPAM Systems"
-      ]
-    },
-    {
-      "title": "Бег 5000 метров (м)",
-      "start_time": "2018-09-02T11:30:00+04:00",
-      "end_time": "2018-09-02T15:00:00+04:00",
-      "location_x": 0.19,
-      "location_y": 0.19,
-      "teams": [
-        "Cloud Castle",
-        "EPAM Systems",
-        "Haulmont",
-        "Magenta Technology",
-        "NetCracker",
-        "NEXIGN",
-        "ГК СМС-Автоматизация",
-        "ИРТех",
-        "ООО ИТ-ТрансПроект",
-        "Право.ру",
-        "Эквид"
-      ],
-      "results": [
-        "ООО ИТ-ТрансПроект",
-        "NetCracker",
-        "Cloud Castle"
+        "Текфорс",
+        "Программные Технологии"
       ]
     },
     {
       "title": "Бой подушками на бревне (ж)",
-      "start_time": "2018-09-02T15:30:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
+      "start_time": "2019-09-08T15:30:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
+        "СКБ Контур",
+        "Haulmont",
+        "ВТБ",
+        "ГК СМС-Автоматизация",
         "NEXIGN",
-        "ГК СМС-Автоматизация"
-      ],
-      "results": [
-        "EPAM Systems",
-        "NEXIGN",
-        "Cloud Castle"
+        "NetCracker",
+        "Wowworks",
+        "Право.ру",
+        "Appbooster"
       ]
     },
     {
       "title": "Бой подушками на бревне (м)",
-      "start_time": "2018-09-02T15:30:00+04:00",
-      "end_time": "2018-09-02T17:00:00+04:00",
+      "start_time": "2019-09-08T15:30:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
+        "СКБ Контур",
         "Haulmont",
-        "NetCracker",
+        "ВТБ",
+        "ГК СМС-Автоматизация",
         "NEXIGN",
+        "NetCracker",
         "Wowworks",
-        "ГК СМС-Автоматизация",
         "Право.ру",
-        "Разумные решения",
-        "Эквид"
-      ],
-      "results": [
-        "ГК СМС-Автоматизация",
-        "EPAM Systems",
-        "Haulmont"
+        "Appbooster"
       ]
     },
     {
       "title": "Перетягивание каната (ж)",
-      "start_time": "2018-09-02T17:00:00+04:00",
-      "end_time": "2018-09-02T18:00:00+04:00",
+      "start_time": "2019-09-08T17:00:00+04:00",
+      "end_time": "2019-09-08T18:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
-        "CQG",
-        "EPAM Systems"
-      ],
-      "results": [
         "EPAM Systems",
-        "CQG",
-        "EPAM Systems"
+        "Haulmont",
+        "ВТБ",
+        "CQG"
       ]
     },
     {
       "title": "Перетягивание каната (м)",
-      "start_time": "2018-09-02T17:00:00+04:00",
-      "end_time": "2018-09-02T18:00:00+04:00",
+      "start_time": "2019-09-08T17:00:00+04:00",
+      "end_time": "2019-09-08T18:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
-        "Cloud Castle",
         "EPAM Systems",
         "Haulmont",
-        "Wowworks"
-      ],
-      "results": [
-        "EPAM Systems",
-        "Haulmont",
-        "Wowworks"
+        "ВТБ",
+        "CQG"
       ]
     },
     {
       "title": "Награждение",
-      "start_time": "2018-09-02T18:30:00+04:00",
-      "end_time": "2018-09-02T19:00:00+04:00",
+      "start_time": "2019-09-08T18:30:00+04:00",
+      "end_time": "2019-09-08T19:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
-        "CQG",
-        "Haulmont",
-        "i-Sys",
+        "Акелон",
         "Magenta Technology",
         "Maxifier",
-        "Mercury Development",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "SimbirSoft",
-        "Wowworks",
-        "Акелон",
-        "Воздухоплаватели",
-        "ГК СМС-Автоматизация",
-        "Золотой код",
+        "СКБ Контур",
         "Информ-С",
-        "ИРТех",
-        "ООО ИТ-ТрансПроект",
-        "ГК ПАРУС",
+        "Haulmont",
+        "ВТБ",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Mad Devs",
+        "Wowworks",
+        "Mercury Development",
+        "REG.RU",
+        "Золотой код",
         "Право.ру",
-        "Программные Технологии",
-        "Разумные решения",
-        "Суперпозиция",
-        "Эквид"
+        "Колл-Сервис",
+        "Appbooster",
+        "i-Sys",
+        "Воздухоплаватели",
+        "SimbirSoft",
+        "Текфорс",
+        "Инфопро",
+        "Программные Технологии"
       ]
     },
     {
       "title": "Торжественное закрытие",
-      "start_time": "2018-09-02T19:00:00+04:00",
-      "end_time": "2018-09-02T19:30:00+04:00",
+      "start_time": "2019-09-08T19:00:00+04:00",
+      "end_time": "2019-09-08T19:30:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
-        "CQG",
-        "Haulmont",
-        "i-Sys",
+        "Акелон",
         "Magenta Technology",
         "Maxifier",
-        "Mercury Development",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "SimbirSoft",
-        "Wowworks",
-        "Акелон",
-        "Воздухоплаватели",
-        "ГК СМС-Автоматизация",
-        "Золотой код",
+        "СКБ Контур",
         "Информ-С",
-        "ИРТех",
-        "ООО ИТ-ТрансПроект",
-        "ГК ПАРУС",
+        "Haulmont",
+        "ВТБ",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Mad Devs",
+        "Wowworks",
+        "Mercury Development",
+        "REG.RU",
+        "Золотой код",
         "Право.ру",
-        "Программные Технологии",
-        "Разумные решения",
-        "Суперпозиция",
-        "Эквид"
+        "Колл-Сервис",
+        "Appbooster",
+        "i-Sys",
+        "Воздухоплаватели",
+        "SimbirSoft",
+        "Текфорс",
+        "Инфопро",
+        "Программные Технологии"
       ]
     }
   ],
   "zero_day_competitions": [
     {
       "title": "Counter-Strike: GO",
-      "start_time": "2018-08-18T11:00:00+04:00",
-      "end_time": "2018-08-18T20:00:00+04:00",
+      "start_time": "2019-08-18T11:00:00+04:00",
+      "end_time": "2019-08-18T20:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
-        "Cloud Castle",
         "EPAM Systems",
         "Haulmont",
-        "NetCracker",
-        "NEXIGN",
+        "ВТБ",
         "REG.RU",
-        "ГК СМС-Автоматизация",
-        "ИРТех",
         "Право.ру",
-        "Суперпозиция"
-      ],
-      "results": [
-        "NetCracker",
-        "Haulmont",
-        "Cloud Castle"
+        "SimbirSoft"
       ]
     },
     {
       "title": "Mortal Kombat X",
-      "start_time": "2018-08-18T11:00:00+04:00",
-      "end_time": "2018-08-18T18:00:00+04:00",
+      "start_time": "2019-08-18T11:00:00+04:00",
+      "end_time": "2019-08-18T18:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
         "EPAM Systems",
         "Haulmont",
-        "i-Sys",
+        "ВТБ",
         "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "SimbirSoft",
-        "Wowworks",
-        "ГК СМС-Автоматизация",
-        "Право.ру"
-      ],
-      "results": [
-        "EPAM Systems",
-        "NetCracker",
-        "EPAM Systems"
+        "Mad Devs",
+        "REG.RU"
       ]
     },
     {
-      "title": "Шахматы",
-      "start_time": "2018-08-18T11:00:00+04:00",
-      "end_time": "2018-08-18T18:00:00+04:00",
+      "title": "Dota 2",
+      "start_time": "2019-08-18T11:00:00+04:00",
+      "end_time": "2019-08-18T18:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
+        "EPAM Systems",
+        "Haulmont",
         "CQG",
-        "i-Sys",
-        "Mercury Development",
-        "NEXIGN",
-        "REG.RU",
-        "Воздухоплаватели",
-        "ГК СМС-Автоматизация",
-        "Разумные решения"
-      ],
-      "results": [
-        "Mercury Development",
-        "Воздухоплаватели",
-        "i-Sys"
-      ]
-    },
-    {
-      "title": "Шашки",
-      "start_time": "2018-08-18T11:00:00+04:00",
-      "end_time": "2018-08-18T18:00:00+04:00",
-      "location_x": 0.20,
-      "location_y": 0.80,
-      "teams": [
-        "EPAM Systems",
-        "Haulmont",
-        "NetCracker",
-        "REG.RU",
-        "Wowworks",
-        "Программные Технологии"
-      ],
-      "results": [
-        "Haulmont",
-        "REG.RU",
-        "EPAM Systems"
-      ]
-    },
-    {
-      "title": "FIFA 18",
-      "start_time": "2018-08-18T10:00:00+04:00",
-      "end_time": "2018-08-18T20:00:00+04:00",
-      "location_x": 0.20,
-      "location_y": 0.80,
-      "teams": [
-        "Cloud Castle",
-        "EPAM Systems",
-        "Haulmont",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "Wowworks",
-        "Воздухоплаватели",
-        "ГК СМС-Автоматизация",
-        "ИРТех",
-        "Право.ру",
-        "Программные Технологии",
-        "Эквид"
-      ],
-      "results": [
-        "NetCracker",
         "NetCracker",
         "REG.RU"
       ]
     },
     {
-      "title": "Го",
-      "start_time": "2018-08-18T15:00:00+04:00",
-      "end_time": "2018-08-18T18:00:00+04:00",
+      "title": "FIFA 19",
+      "start_time": "2019-08-18T10:00:00+04:00",
+      "end_time": "2019-08-18T20:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
-        "CQG",
+        "Cloud Castle",
+        "EPAM Systems",
         "Haulmont",
-        "Maxifier",
-        "REG.RU",
+        "ВТБ",
         "ГК СМС-Автоматизация",
+        "NetCracker",
+        "REG.RU",
+        "Колл-Сервис",
+        "Appbooster",
+        "Воздухоплаватели",
+        "Текфорс",
+        "Программные Технологии"
+      ]
+    },
+    {
+      "title": "Шахматы",
+      "start_time": "2019-08-18T11:00:00+04:00",
+      "end_time": "2019-08-18T18:00:00+04:00",
+      "location_x": 0.20,
+      "location_y": 0.80,
+      "teams": [
+        "EPAM Systems",
+        "Haulmont",
+        "ВТБ",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "REG.RU",
         "Право.ру",
-        "Разумные решения"
-      ],
-      "results": [
+        "Колл-Сервис",
+        "Appbooster",
+        "i-Sys",
+        "Воздухоплаватели",
+        "Текфорс"
+      ]
+    },
+    {
+      "title": "Шашки",
+      "start_time": "2019-08-18T11:00:00+04:00",
+      "end_time": "2019-08-18T18:00:00+04:00",
+      "location_x": 0.20,
+      "location_y": 0.80,
+      "teams": [
+        "EPAM Systems",
+        "СКБ Контур",
+        "Haulmont",
         "ГК СМС-Автоматизация",
-        "REG.RU",
+        "NetCracker",
+        "Право.ру",
+        "Программные Технологии"
+      ]
+    },
+    {
+      "title": "Го",
+      "start_time": "2019-08-18T15:00:00+04:00",
+      "end_time": "2019-08-18T18:00:00+04:00",
+      "location_x": 0.20,
+      "location_y": 0.80,
+      "teams": [
+        "ВТБ",
+        "ГК СМС-Автоматизация",
         "Право.ру"
       ]
     },
     {
       "title": "Велокросс XCO (ж)",
-      "start_time": "2018-08-11T11:30:00+04:00",
-      "end_time": "2018-08-11T16:00:00+04:00",
+      "start_time": "2019-08-11T11:30:00+04:00",
+      "end_time": "2019-08-11T16:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
         "Cloud Castle",
+        "EPAM Systems",
+        "Акелон",
+        "Magenta Technology",
+        "СКБ Контур",
+        "Информ-С",
+        "Haulmont",
         "CQG",
-        "ИРТех"
-      ],
-      "results": [
-        "Cloud Castle",
-        "CQG",
-        "ИРТех"
+        "NetCracker",
+        "Mercury Development",
+        "REG.RU",
+        "i-Sys"
       ]
     },
     {
       "title": "Велокросс XCO (м)",
-      "start_time": "2018-08-11T11:30:00+04:00",
-      "end_time": "2018-08-11T16:00:00+04:00",
+      "start_time": "2019-08-11T11:30:00+04:00",
+      "end_time": "2019-08-11T16:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
+        "Cloud Castle",
         "EPAM Systems",
-        "Haulmont",
-        "Magenta Technology",
-        "Maxifier",
-        "Mercury Development",
-        "NetCracker",
-        "REG.RU",
         "Акелон",
-        "ИРТех",
-        "Разумные решения"
-      ],
-      "results": [
+        "Magenta Technology",
+        "СКБ Контур",
+        "Информ-С",
         "Haulmont",
-        "Haulmont",
-        "Maxifier"
+        "CQG",
+        "NetCracker",
+        "Mercury Development",
+        "REG.RU",
+        "i-Sys"
       ]
     },
     {
       "title": "Велоэстафета",
-      "start_time": "2018-08-11T11:30:00+04:00",
-      "end_time": "2018-08-11T16:00:00+04:00",
+      "start_time": "2019-08-11T11:30:00+04:00",
+      "end_time": "2019-08-11T16:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
         "Cloud Castle",
-        "EPAM Systems",
+        "СКБ Контур",
         "Haulmont",
-        "NetCracker",
-        "ИРТех"
-      ],
-      "results": [
-        "Haulmont",
-        "EPAM Systems",
-        "Haulmont"
-      ]
-    },
-    {
-      "title": "Плавание 50 метров (ж)",
-      "start_time": "2018-08-25T10:30:00+04:00",
-      "end_time": "2018-08-25T12:00:00+04:00",
-      "location_x": 0.20,
-      "location_y": 0.80,
-      "teams": [
-        "Cloud Castle",
-        "Haulmont",
-        "i-Sys",
-        "ГК СМС-Автоматизация"
-      ],
-      "results": [
-        "ГК СМС-Автоматизация",
-        "Haulmont",
-        "Haulmont"
-      ]
-    },
-    {
-      "title": "Плавание 50 метров (м)",
-      "start_time": "2018-08-25T10:30:00+04:00",
-      "end_time": "2018-08-25T12:00:00+04:00",
-      "location_x": 0.20,
-      "location_y": 0.80,
-      "teams": [
-        "EPAM Systems",
-        "i-Sys",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "ГК СМС-Автоматизация",
-        "Эквид"
-      ],
-      "results": [
-        "Эквид",
-        "EPAM Systems",
-        "EPAM Systems"
-      ]
-    },
-    {
-      "title": "Плавание 200 метров (ж)",
-      "start_time": "2018-08-25T10:30:00+04:00",
-      "end_time": "2018-08-25T12:00:00+04:00",
-      "location_x": 0.20,
-      "location_y": 0.80,
-      "teams": [
-        "Cloud Castle",
-        "Haulmont",
-        "ГК СМС-Автоматизация"
-      ],
-      "results": [
-        "ГК СМС-Автоматизация",
-        "Haulmont",
-        "Haulmont"
-      ]
-    },
-    {
-      "title": "Плавание 200 метров (м)",
-      "start_time": "2018-08-25T10:30:00+04:00",
-      "end_time": "2018-08-25T12:00:00+04:00",
-      "location_x": 0.20,
-      "location_y": 0.80,
-      "teams": [
-        "EPAM Systems",
-        "ГК СМС-Автоматизация"
-      ],
-      "results": [
-        "EPAM Systems",
-        "EPAM Systems",
-        "ГК СМС-Автоматизация"
-      ]
-    },
-    {
-      "title": "Настольный теннис (ж)",
-      "start_time": "2018-08-25T12:30:00+04:00",
-      "end_time": "2018-08-25T20:00:00+04:00",
-      "location_x": 0.20,
-      "location_y": 0.80,
-      "teams": [
-        "Cloud Castle",
-        "NetCracker",
-        "Эквид"
-      ],
-      "results": [
-        "Эквид",
-        "Cloud Castle",
         "NetCracker"
       ]
     },
     {
-      "title": "Настольный теннис (м)",
-      "start_time": "2018-08-25T12:30:00+04:00",
-      "end_time": "2018-08-25T20:00:00+04:00",
+      "title": "Плавание 50 метров (ж)",
+      "start_time": "2019-08-25T10:30:00+04:00",
+      "end_time": "2019-08-25T12:00:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
         "Cloud Castle",
         "EPAM Systems",
-        "CQG",
         "Haulmont",
-        "i-Sys",
-        "Magenta Technology",
-        "Maxifier",
-        "Mercury Development",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "Wowworks",
-        "Воздухоплаватели",
+        "ВТБ",
         "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "REG.RU",
+        "Appbooster"
+      ]
+    },
+    {
+      "title": "Плавание 50 метров (м)",
+      "start_time": "2019-08-25T10:30:00+04:00",
+      "end_time": "2019-08-25T12:00:00+04:00",
+      "location_x": 0.20,
+      "location_y": 0.80,
+      "teams": [
+        "Cloud Castle",
+        "EPAM Systems",
+        "Haulmont",
+        "ВТБ",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "REG.RU",
+        "Appbooster"
+      ]
+    },
+    {
+      "title": "Плавание 200 метров (ж)",
+      "start_time": "2019-08-25T10:30:00+04:00",
+      "end_time": "2019-08-25T12:00:00+04:00",
+      "location_x": 0.20,
+      "location_y": 0.80,
+      "teams": [
+        "EPAM Systems",
+        "Haulmont",
+        "ГК СМС-Автоматизация",
+        "NetCracker",
+        "Appbooster"
+      ]
+    },
+    {
+      "title": "Плавание 200 метров (м)",
+      "start_time": "2019-08-25T10:30:00+04:00",
+      "end_time": "2019-08-25T12:00:00+04:00",
+      "location_x": 0.20,
+      "location_y": 0.80,
+      "teams": [
+        "EPAM Systems",
+        "Haulmont",
+        "ГК СМС-Автоматизация",
+        "NetCracker",
+        "Appbooster"
+      ]
+    },
+    {
+      "title": "Настольный теннис (ж)",
+      "start_time": "2019-08-25T12:30:00+04:00",
+      "end_time": "2019-08-25T20:00:00+04:00",
+      "location_x": 0.20,
+      "location_y": 0.80,
+      "teams": [
+        "Cloud Castle",
+        "EPAM Systems",
+        "Magenta Technology",
         "Информ-С",
-        "Право.ру",
-        "Разумные решения",
-        "Эквид"
-      ],
-      "results": [
+        "Haulmont",
+        "ВТБ",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Wowworks",
         "Mercury Development",
-        "Воздухоплаватели",
-        "CQG"
+        "REG.RU",
+        "Право.ру",
+        "Колл-Сервис",
+        "i-Sys",
+        "Воздухоплаватели"
+      ]
+    },
+    {
+      "title": "Настольный теннис (м)",
+      "start_time": "2019-08-25T12:30:00+04:00",
+      "end_time": "2019-08-25T20:00:00+04:00",
+      "location_x": 0.20,
+      "location_y": 0.80,
+      "teams": [
+        "Cloud Castle",
+        "EPAM Systems",
+        "Magenta Technology",
+        "Информ-С",
+        "Haulmont",
+        "ВТБ",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker",
+        "Wowworks",
+        "Mercury Development",
+        "REG.RU",
+        "Право.ру",
+        "Колл-Сервис",
+        "i-Sys",
+        "Воздухоплаватели"
+      ]
+    },
+    {
+      "title": "Бадминтон (ж)",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
+      "location_x": 0.35,
+      "location_y": 0.20,
+      "teams": [
+
+      ]
+    },
+    {
+      "title": "Бадминтон (м)",
+      "start_time": "2019-09-08T10:00:00+04:00",
+      "end_time": "2019-09-08T17:00:00+04:00",
+      "location_x": 0.35,
+      "location_y": 0.20,
+      "teams": [
+
       ]
     },
     {
       "title": "Волейбол (м, отборочные)",
-      "start_time": "2018-08-26T10:30:00+04:00",
-      "end_time": "2018-08-27T17:30:00+04:00",
+      "start_time": "2019-08-26T10:30:00+04:00",
+      "end_time": "2019-08-27T17:30:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
-        "Cloud Castle",
         "EPAM Systems",
+        "Акелон",
+        "Maxifier",
         "Haulmont",
-        "NetCracker",
+        "ВТБ",
         "NEXIGN",
+        "NetCracker",
         "REG.RU",
-        "Wowworks",
-        "ИРТех",
-        "Право.ру",
-        "Программные Технологии",
-        "Эквид"
+        "Appbooster",
+        "Программные Технологии"
       ]
     },
     {
       "title": "Мини-футбол (отборочные)",
-      "start_time": "2018-08-26T11:00:00+04:00",
-      "end_time": "2018-08-27T17:30:00+04:00",
+      "start_time": "2019-08-26T11:00:00+04:00",
+      "end_time": "2019-08-27T17:30:00+04:00",
       "location_x": 0.20,
       "location_y": 0.80,
       "teams": [
-        "Cloud Castle",
         "EPAM Systems",
-        "CQG",
         "Haulmont",
-        "Mercury Development",
-        "NetCracker",
-        "NEXIGN",
-        "REG.RU",
-        "Wowworks",
-        "Воздухоплаватели",
+        "ВТБ",
+        "CQG",
         "ГК СМС-Автоматизация",
-        "ИРТех",
-        "ГК ПАРУС",
+        "NEXIGN",
+        "NetCracker",
+        "Mercury Development",
+        "REG.RU",
+        "Колл-Сервис",
+        "Appbooster",
+        "Воздухоплаватели",
+        "Инфопро",
         "Программные Технологии"
       ]
     }
