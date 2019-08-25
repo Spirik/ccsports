@@ -1136,22 +1136,32 @@
     },
     {
       "title": "Бадминтон (ж)",
-      "start_time": "2019-09-08T10:00:00+04:00",
-      "end_time": "2019-09-08T17:00:00+04:00",
+      "start_time": "2019-08-25T10:00:00+04:00",
+      "end_time": "2019-08-25T17:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
-
+        "EPAM Systems",
+        "Haulmont",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker"
       ]
     },
     {
       "title": "Бадминтон (м)",
-      "start_time": "2019-09-08T10:00:00+04:00",
-      "end_time": "2019-09-08T17:00:00+04:00",
+      "start_time": "2019-08-25T10:00:00+04:00",
+      "end_time": "2019-08-25T17:00:00+04:00",
       "location_x": 0.35,
       "location_y": 0.20,
       "teams": [
-
+        "EPAM Systems",
+        "Haulmont",
+        "CQG",
+        "ГК СМС-Автоматизация",
+        "NEXIGN",
+        "NetCracker"
       ]
     },
     {
