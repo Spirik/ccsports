@@ -401,7 +401,13 @@
         "Haulmont",
         "ВТБ",
         "NEXIGN",
-        "NetCracker"
+        "NetCracker",
+        "CQG"
+      ],
+      "results": [
+        "NetCracker",
+        "EPAM Systems",
+        "CQG"
       ]
     },
     {
@@ -415,7 +421,13 @@
         "Haulmont",
         "ВТБ",
         "NEXIGN",
-        "NetCracker"
+        "NetCracker",
+        "CQG"
+      ],
+      "results": [
+        "Haulmont",
+        "EPAM Systems",
+        "NEXIGN"
       ]
     },
     {
