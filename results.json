@@ -858,6 +858,11 @@
         "Haulmont",
         "ВТБ",
         "CQG"
+      ],
+      "results": [
+        "EPAM Systems",
+        "CQG",
+        "ВТБ"
       ]
     },
     {
@@ -871,6 +876,11 @@
         "Haulmont",
         "ВТБ",
         "CQG"
+      ],
+      "results": [
+        "EPAM Systems",
+        "Haulmont",
+        "Haulmont"
       ]
     },
     {
